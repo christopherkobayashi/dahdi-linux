@@ -12,4 +12,6 @@ Unfortunately, with the Linux device driver API being a constantly (and maddenin
 
 That's why this fork exists.  I've personally tested it with cards using the wctdm24xxp and wctdm drivers; others will probably work too.
 
+Additionally, the OSLEC echo cancellation driver is now built and installed by default.
+
 Installation instructions are in the original README file in this directory.
